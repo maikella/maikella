@@ -1,6 +1,6 @@
-Hello there, I'm Maycon
+# Hello there, I'm Maycon
 
-About me
+### About me
 
 > 🎯 Atualmente, tenho como foco principal a área de desenvolvimento web.
 
