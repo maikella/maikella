@@ -4,8 +4,8 @@
 
 > 🎯 Atualmente, tenho como foco principal a área de desenvolvimento web.
 
-> 💻 Utilizo a stack HTML, CSS, JavaScript, Node e React para desenvolver.
+> 💻 Utilizo HTML, CSS, JavaScript e React para desenvolver.
 
-> 🌱 Estou aprendendo: TypeScript, AWS e Web Design.
+> 🌱 Estou aprendendo: TypeScript, AWS e Node.
 
 > ❤ Apaixonado por música.
