@@ -6,6 +6,6 @@
 
 > 💻 Utilizo HTML, CSS, JavaScript e React para desenvolver.
 
-<!-- > 🌱 Estou aprendendo: JavaTypeScript, AWS e Node. -->
+> 🌱 Aprendendo Java.
 
 > ❤ Apaixonado por música.
